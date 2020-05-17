@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1589751243 source:c:\users\angelaguirre\desktop\escuadras\main.cpp
+	<iostream>
+	<fstream>
+
